@@ -1,0 +1,4 @@
+- Adição de nome do aluno e identificação da turma
+- adição de textos numerados de 1 a 3
+- Adição de textos numerados de 1 a 3 pela *branch* `feature/login`
+- Adição de textos numerados de 1 a 3 pela *branch* `feature/cadastro`
