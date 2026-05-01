@@ -12,3 +12,5 @@ Login: texto 1
 Login: texto 2
 
 Login: texto 3
+
+Cadastro: texto 1
